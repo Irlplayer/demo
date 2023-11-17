@@ -10,3 +10,10 @@ git status
 git merge
 repository
 fork 
+It will take 5-10 bussiness days for the copilot thing to get ready and implment. Just check once later
+GitHub co pilot has three things its useful for:
+1.Autogeneration
+2.Suggestions
+3.Refactoring
+
+Prompt engineering -ctrl+9 to ask it to do the work
