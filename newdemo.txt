@@ -1,3 +1,7 @@
 my name is Mustafa
 my age is 20
-my name
+my name 
+git init
+git add .
+git commit -mygit status
+git push
