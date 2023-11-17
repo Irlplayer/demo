@@ -3,5 +3,5 @@ my age is 20
 my name 
 git init
 git add .
-git commit -mygit status
-git push
+git commit -m
+git
