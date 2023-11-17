@@ -18,9 +18,9 @@ GitHub co pilot has three things its useful for:
 
 Prompt engineering -ctrl+9 to ask it to do the work
 
-MISCScenarios
+MISCS Scenarios
 1.database queries
 2.project collaboration
 3.cross-language application
-Mobile app intetegration
-Accelerating react development
+4.Mobile app intetegration
+5.Accelerating react development
